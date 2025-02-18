@@ -1,5 +1,20 @@
 body{
+    margin: 0%;
     background-image: url(./background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    align-items: center;
+}
+
+.box{
+    background-color: rgba(7, 177, 255, 0.5);
+    width: 550px;
+    height: 450px;
+    align-items: center;
+    margin-top: 330px;
+    margin-left: 660px;
+}
+
+.weatherText{
+    margin: 20px;
 }
