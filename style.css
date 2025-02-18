@@ -1,6 +1,6 @@
 body{
     margin: 0%;
-    background-image: url(./background.jpg);
+    background-image: url(./background1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     align-items: center;
@@ -11,6 +11,8 @@ body{
 
 .weatherInfo{
     background-color: rgba(7, 177, 255, 0.5);
-    margin: 50px;
+    margin: 25em;
     align-items: center;
+    padding: 24px;
+    border-radius: 15px;
 }
